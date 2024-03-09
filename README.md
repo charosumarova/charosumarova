@@ -8,6 +8,7 @@ I work remotely, i like to travel a lot.
  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" width="25px"></code>
  <code><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="25px"></code>
 <code> <img src="https://sass-lang.com/assets/img/styleguide/black.png" width="25px"></code>
-<code> <img src="https://banner2.cleanpng.com/20180417/ite/kisspng-web-development-javascript-logo-java-plum-5ad58e75bc9174.9127947515239450777724.jpg" width="25px"></code>
+<code> <img src="https://cdn.freebiesupply.com/logos/large/2x/logo-javascript-logo-black-and-white.png" width="25px"></code>
+<code> <img src="https://assets.paulrand.design/Works/NeXT/NeXT-Computers-1986.svg" width="25px"></code>
 
 
